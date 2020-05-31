@@ -1,4 +1,7 @@
 
+  [License: {}](https://img.shields.io/badge/License-{}-blue.svg)
+  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  
   Table Of Contents
 
 1)Project Title
@@ -51,7 +54,7 @@ b - user github profile Pic
   ## Test
   weather tests are very good
   
-  
+  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]
  
   
   
