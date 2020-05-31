@@ -89,6 +89,12 @@ const questions = [
   
   },
   {
+    type: "input",
+    name: "email",
+    message: "Could you please input the e-mail for the git-hub repository?",
+  
+  },
+  {
     type: 'list',
     name: 'license',
     message: 'Which license would be most appropriate for this project',
@@ -160,6 +166,13 @@ const genImage = (imageUrl) => {
   `
 }
 
+const genEmail = (email) => {
+  return `
+  ##7b) Github repository e-mail:
+  ${email}
+  `;
+};
+
 
 //this function returns information about contributors to the project.
 const genCredit = (credit) => {
@@ -206,6 +219,7 @@ const buildReadme = (data) => {
   const contributing = data.contributing;
   const test = data.test;
   const credit = data.credit;
+  const email = data.email;
   let license = data.license;
 
   // license is a let variable - as it is going to be re-written with the code for the correct badge
@@ -231,8 +245,9 @@ const buildReadme = (data) => {
   ${genUsage(usage)}
   ${genContributing(contributing)}
   ${genTest(test)}
-  ${genImage(githubProfileUrl)}
   ${genCredit(credit)}
+  ${genImage(githubProfileUrl)}
+  ${genEmail(email)}
   ${genLicense(license)}
   
  

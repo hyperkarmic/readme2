@@ -25,11 +25,11 @@ b - Github User E-mail
 
 
   
-  ##1)Title: f
+  ##1)Title: gg
   
   
   ##2) Description:
-  d
+  dd
   
   
   ##3) Installation: 
@@ -37,27 +37,31 @@ b - Github User E-mail
   
   
   ##4) Usage:
-  f
+  d
   
   
   ##5) Contributing: 
-  d
+  dff
   
   
   ##6) Test:
-  d
+  g
+  
+  
+  ##8) Credit
+  s
   
   
   ##7a) Questions
   ![user-name](https://avatars1.githubusercontent.com/u/57872128?v=4)
   
   
-  ##8) Credit
+  ##7b) Github repository e-mail:
   d
   
   
   ##9) License
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
   
  
