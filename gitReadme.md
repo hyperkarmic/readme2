@@ -9,13 +9,13 @@
 
 4)Usage
 
-5)Contributoring
+5)Contributing
 
 6)Tests
 
 7)Questions
 a - Github User Profile Picture
-b - user github profile Pic 
+b - Github User E-mail 
 
 8)License
 
@@ -25,35 +25,35 @@ b - user github profile Pic
 
 
   
-  ##1)Title: bubbles
+  ##1)Title: f
   
   
   ##2) Description:
-  hhjds
+  d
   
   
   ##3) Installation: 
-  j
+  f
   
   
   ##4) Usage:
-  mvmvmvmv
+  f
   
   
   ##5) Contributing: 
-  cmcmc
+  d
   
   
   ##6) Test:
-  cccc
+  d
   
   
   ##7a) Questions
   ![user-name](https://avatars1.githubusercontent.com/u/57872128?v=4)
   
   
-  ##8) License
-  simon
+  ##8) Credit
+  d
   
   
   ##9) License
